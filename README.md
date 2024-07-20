@@ -12,5 +12,5 @@ A simple RESTful API for a vehicle service booking system.
 ## Setup Instructions
 1. Clone the repository
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:SudarshanProCoder/Backend-Developer-Intern-Assignment.git
    cd vehicle-service-booking
